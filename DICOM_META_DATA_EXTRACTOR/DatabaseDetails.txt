@@ -1,0 +1,9 @@
+Database Login Email - dicommetadataextractor@gmail.com
+Database Login Password - dicom12345
+
+Databse Cluster - DICOM
+Databse User- dicom
+Database password - 12345
+Database Collections - Tags
+		       ImageDetails
+// Login to the database to view all the data
