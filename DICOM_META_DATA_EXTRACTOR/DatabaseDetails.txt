@@ -6,4 +6,5 @@ Databse User- dicom
 Database password - 12345
 Database Collections - Tags
 		       ImageDetails
-// Login to the database to view all the data
+// Login to the mongodb atlas database  to view all the data
+//http://mongodb.com
